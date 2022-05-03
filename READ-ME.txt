@@ -1,0 +1,15 @@
+Steps to Run The Solution.
+
+Tools Required (Visual Studio 2019/ MSSQL installed)
+
+1.Open Visual Studio
+2.Open Solution ( GroupUser.sln )
+3.Click on the following file ( GroupUser.Database.publish.xml ) and Run Publish so it will create Schemas for the project.
+4.Clean Solution
+5.Run Solution
+
+First Time LogIn can user :-
+
+Email Address : jabulaniphiwa@gmail.com
+Password      : 1478
+ 
